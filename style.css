@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: linear-gradient( 45deg, #98cd8d 33.33%, #f6f0cf 33.33%, #f6f0cf 50%, #98cd8d 50%, #98cd8d 83.33%, #f6f0cf 83.33%, #f6f0cf 100%);
+    background-size: 84.85px 84.85px;
+}
+
+.ok {}
+
+.but {}
+
+.select {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.punkty {
+    font-size: 22px;
+    margin: 40px 0;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+button {
+    border: none;
+    background: gold;
+    margin: 5px;
+    padding: 10px;
+}
+
+hr {
+    border: 1px solid black;
+}
